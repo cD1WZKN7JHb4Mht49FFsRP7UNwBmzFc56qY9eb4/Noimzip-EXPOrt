@@ -1,0 +1,33 @@
+/*このプログラムはサイトの動作に影響を与える場合があります。同意できる場合は、2行目と33行目にある記号を削除してください。*/
+/*
+@-moz-document url-prefix("https://ticket.expo2025.or.jp") {
+.style_search_item_note__vExQQ,
+.style_event_links__jS3Q_,
+.style_title__jFGv9,
+.style_info__CFlEQ,
+header,
+.header2,
+.style_main_header__HqBbu,
+.style_footer__iVohO,
+.style_info__DjEiR,
+.style_description__o9igj,
+.style_event_chip_links___Pve2,
+.style_scale__XzXt6,
+.style_footer__0ED9w,
+.style_form_result_head__vWpwF,
+.style_form_search_caption__DbKqM,
+.style_form_select_time__TZmGY,
+.style_hour_unit_wrap__piAg4,
+.style_scale__Wf3te,
+.style_main_img__W_6pm,
+.style_sub_title__bDw9W,
+.style_caption__riP_k,
+.style_title__44y_b,
+.ot-floating-button__front,
+.style_form_result_caption__iXsYT,
+.style_search_item_row__moqWC:has(img[src*="calendar_none.svg"]),
+.style_time_picker__wrap__UBImr:has(.style_time_picker__disabled___yvRh) {
+display: none !important;
+}
+}
+*/
