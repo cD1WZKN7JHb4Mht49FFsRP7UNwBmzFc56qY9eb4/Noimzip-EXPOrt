@@ -1,0 +1,283 @@
+[
+  {
+    "settings": {
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeStyleName": false,
+      "keepAlive": 0,
+      "keepAliveIdle": false,
+      "newStyleAsUsercss": false,
+      "openEditInWindow": false,
+      "openEditInWindow.popup": false,
+      "patchCsp": false,
+      "show-badge": true,
+      "styleViaASS": false,
+      "styleViaXhr": false,
+      "urlInstaller": true,
+      "windowPosition": {},
+      "compactWidth": 850,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "system",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "w",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": false,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.links.expanded": true,
+      "manage.minColumnWidth": 750,
+      "manage.newUI": true,
+      "manage.newUI.favicons": true,
+      "manage.newUI.faviconsGray": false,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "manage.searchMode": "meta",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.options.style.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "default",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true,
+        "space_around_combinator": true,
+        "space_around_cmp": false
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.arrowKeysTraverse": true,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.livePreview.delay": 0.2,
+      "editor.targetsFirst": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": -1,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 280,
+      "headerWidth.install": 280,
+      "headerWidth.manage": 280,
+      "popup.search.globals": false,
+      "popupWidth": 246,
+      "popupWidthMax": 280,
+      "updateInterval": 24,
+      "updateOnlyEnabled": false,
+      "undefined": null
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    }
+  },
+  {
+    "enabled": false,
+    "installDate": 1754740784739,
+    "name": "万博サイト破壊",
+    "sections": [
+      {
+        "code": ".style_search_item_note__vExQQ,\n.style_event_links__jS3Q_,\n.style_title__jFGv9,\n.style_info__CFlEQ,\n.reserve,\n.style_horizon__1JysW,\n.style_image_area__rluEA,\n.style_text_area__Msfzl,\n.style_detail__Y9amN,\n.col3,\n.sp-lh,\n.style_main__usage__GPY6i,\n.style_main__page_title__c7e_v,\n.style_main__other_link__WSeX7,\n.style_main__visit_hope_date_title__OWArh,\n.style_selector_item_disabled__iSIA2,\n.style_main__title__uGwso,\n.style_main__access_description__w0ln5,\n.style_main__access__LWLUK,\nheader,\n.header2,\n.style_main_header__HqBbu,\n.style_footer__iVohO,\n.style_info__DjEiR,\n.style_description__o9igj,\n.style_event_chip_links___Pve2,\n.style_scale__XzXt6,\n.style_footer__0ED9w,\n.style_form_result_head__vWpwF,\n.style_form_search_caption__DbKqM,\n.style_form_select_time__TZmGY,\n.style_hour_unit_wrap__piAg4,\n.style_scale__Wf3te,\n.style_main_img__W_6pm,\n.style_sub_title__bDw9W,\n.style_caption__riP_k,\n.style_title__44y_b,\n.ot-floating-button__front,\n.style_sp_navi__list__ynlBF,\n.style_sp_navi__3gxst,\n.style_info__IMd9g,\n.style_note__IV38f,\n.style_display_controller__SHljn,\n.style_ticket_selection__selection_count__UQ6tz,\n.style_ticket_selection__ticket_count__UAArm,\n.style_ticket_selection__id_input_message__r681a,\n.style_ticket_selection__notice__QKIJm,\n.style_ticket_selection__operation__5_xwc,\n.style_ticket_selection__lead__X6Nmh,\n.style_all_check_block__ATf9c,\n.style_ticket_selection__hidden_ticket_message__SlrMo,\n.style_disabled_get_ticket___nZ_8,\n.style_more_btn_deactive__jsP8I,\n.style_steps__KA_XB,\n.style_slide__F_fNI,\n.styles_title__9jT_J,\n.styles_display_controller__ODR1w,\n.style_search_input_label_sp__IDW6G,\n.style_search_text__TH7D1,\n.style_search_input_label_pc__eca1s,\n.lead-btn,\n.styles_info__4kC2A,\n.lead,\n.style_wrapper__LDMLO,\n.h-type1,\n.note-text,\n.ticket-card,\n.style_button__pkjBw,\n.more-btn-wrap,\n.reverse,\n.style_ticket_count__gfKHL,\n.style_main__mt6v9,\n.top-padding,\n#news,\n.btn-wrap-type1,\n.styles_expo_site_link__buhLi,\n.style_main__footer__NVk0k,\n.style_main__ticket_group_summary__oZRfR,\n.style_main__notes__9VjEx,\n.style_main__heading_wrap__qbkH6,\n.style_info__rjheq,\n.style_main__request_guide__BNM2t,\n.style_main__parking__0pxbz,\n.style_main__visit_messages__GP8AM,\n.style_invoice_note__G9n0Q,\n.style_main__EyJHr,\n.style_main__OEY5a,\n.style_step_info_second__pxlY5,\n.style_step_info_first__Y8D4_,\n.style_main__title__x4qR9,\n.style_empty_frame__info__xnrnV,\n.style_terms__title__FVk2S,\n.style_main__contents__second__img__X4jIk,\n.style_main__contents__first__summary__Z6SSp,\n.style_main__contents__first__name__QOGlc,\n.style_main__header__eAqgA,\n.style_main__page_title__X_Tpw,\n.style_main__title__omISt,\n.style_main__arrows__entrance_date__label_wrap__title__gvHvT,\n.style_main__qrcode__zQSmc,\n.style_main__arrows__entrance_date__label__t2CCw,\n.style_main__reserve_num_title__ybaVv,\n.style_form_result_caption__iXsYT,\n.style_main__arrows__entrance_date__arrow__sYPyn,\n.style_button__F9pH2,\n.style_event_arrows_disabled__rj7VL,\n.style_search_item_row__moqWC:has(img[src*=\"calendar_none.svg\"]),\ntd:has(img[src*=\"calendar_ng.svg\"]),\nimg[src*=\"/asset/img/bg_step_arrow_left_gray.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_gray.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_left_red.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_red.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_left_blue.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_blue.png\"],\n.style_time_picker__wrap__UBImr:has(.style_time_picker__disabled___yvRh) {\ndisplay: none !important;\n}\n",
+        "urlPrefixes": [
+          "https://ticket.expo2025.or.jp"
+        ]
+      }
+    ],
+    "updateDate": 1755334902777,
+    "_id": "b12c5dad-ff57-4888-a807-ae34ddcdf6c5",
+    "_rev": 1755359365551,
+    "id": 1
+  },
+  {
+    "enabled": false,
+    "installDate": 1755326926188,
+    "name": "検索ボタン横長",
+    "sections": [
+      {
+        "code": ".style_search_btn__ZuOpx {\nwidth: 900px !important;\nheight: 50px !important;\n}",
+        "urlPrefixes": [
+          "https://ticket.expo2025.or.jp"
+        ]
+      }
+    ],
+    "updateDate": 1755334891095,
+    "_id": "59d84c51-4784-4620-8c76-e19b0c39e432",
+    "_rev": 1755359373515,
+    "id": 2
+  },
+  {
+    "enabled": false,
+    "installDate": 1755328363433,
+    "name": "チケットホーム画面破壊",
+    "sections": [
+      {
+        "code": ".style_button__K9ZNO {\nwidth: 600px !important;\nheight: 600px !important;\n}",
+        "urlPrefixes": [
+          "https://ticket.expo2025.or.jp"
+        ]
+      }
+    ],
+    "updateDate": 1755334878398,
+    "_id": "fcf94a50-c27c-4935-9758-5d71138d80ac",
+    "_rev": 1755359371970,
+    "id": 3
+  },
+  {
+    "enabled": false,
+    "installDate": 1755328625480,
+    "name": "チケット選択画面破壊",
+    "sections": [
+      {
+        "code": ".style_ticket_selection__submit__U0a_C {\nwidth: 900px !important;\nheight: 300px !important;\n}",
+        "urlPrefixes": [
+          "https://ticket.expo2025.or.jp"
+        ]
+      }
+    ],
+    "updateDate": 1755334855244,
+    "_id": "1c376ef4-65d5-414e-ab4e-7f84ad57c985",
+    "_rev": 1755359370807,
+    "id": 4
+  },
+  {
+    "enabled": false,
+    "installDate": 1755330532324,
+    "name": "有志プログラム",
+    "sections": [
+      {
+        "code": "tr:nth-child(1n) {\ndisplay: none !important;\n}",
+        "urlPrefixes": [
+          "https://expo.ebii.net/"
+        ]
+      }
+    ],
+    "updateDate": 1755334814362,
+    "_id": "9cbbe2f3-474b-47af-b29d-5a9082d6d956",
+    "_rev": 1755336180606,
+    "id": 5
+  },
+  {
+    "enabled": false,
+    "installDate": 1755330738460,
+    "name": "有志改造-nullのみ",
+    "sections": [
+      {
+        "code": "tr:nth-child(44),\ntr:nth-child(45){\ndisplay: block !important;\n}",
+        "urlPrefixes": [
+          "https://expo.ebii.net/"
+        ]
+      }
+    ],
+    "updateDate": 1755334832183,
+    "_id": "63494a14-a5b9-49fd-aedc-d5854d46b18a",
+    "_rev": 1755334932559,
+    "id": 6
+  },
+  {
+    "enabled": false,
+    "installDate": 1755334929289,
+    "name": "有志改造-ヘルスケアのみ",
+    "sections": [
+      {
+        "code": "tr:nth-child(15),\ntr:nth-child(16),\ntr:nth-child(17),\ntr:nth-child(18){\ndisplay: block !important;\n}",
+        "urlPrefixes": [
+          "https://expo.ebii.net/"
+        ]
+      }
+    ],
+    "updateDate": 1755335082169,
+    "_id": "411f733d-1a41-4304-b612-3646e84a142f",
+    "_rev": 1755335082169,
+    "id": 8
+  },
+  {
+    "enabled": false,
+    "installDate": 1755335024733,
+    "name": "有志改造-厳選",
+    "sections": [
+      {
+        "code": "tr:nth-child(15),\ntr:nth-child(16),\ntr:nth-child(17),\ntr:nth-child(18),\ntr:nth-child(44),\ntr:nth-child(45){\ndisplay: block !important;\n}",
+        "urlPrefixes": [
+          "https://expo.ebii.net/"
+        ]
+      }
+    ],
+    "updateDate": 1755335109013,
+    "_id": "fd58e233-b726-46d3-9be3-1f6059e90d2a",
+    "_rev": 1755335169759,
+    "id": 9
+  },
+  {
+    "enabled": false,
+    "installDate": 1755335385521,
+    "name": "有志改造-判定大きめ",
+    "sections": [
+      {
+        "code": "tr:nth-child(4),\ntr:nth-child(10),\ntr:nth-child(12),\ntr:nth-child(15),\ntr:nth-child(16),\ntr:nth-child(17),\ntr:nth-child(18),\ntr:nth-child(19),\ntr:nth-child(22),\ntr:nth-child(23),\ntr:nth-child(25),\ntr:nth-child(32),\ntr:nth-child(34),\ntr:nth-child(38),\ntr:nth-child(39),\ntr:nth-child(44),\ntr:nth-child(45),\ntr:nth-child(46),\ntr:nth-child(47),\ntr:nth-child(49),\ntr:nth-child(50){\ndisplay: block !important;\n}",
+        "urlPrefixes": [
+          "https://expo.ebii.net/"
+        ]
+      }
+    ],
+    "updateDate": 1755335689077,
+    "_id": "914b9d9e-4f94-42c4-a633-67859af45d83",
+    "_rev": 1755335886215,
+    "id": 10
+  },
+  {
+    "enabled": false,
+    "installDate": 1755335831671,
+    "name": "有志改造-もっかい行きたいパビリオン",
+    "sections": [
+      {
+        "code": "tr:nth-child(49){\ndisplay: block !important;\n}",
+        "urlPrefixes": [
+          "https://expo.ebii.net/"
+        ]
+      }
+    ],
+    "updateDate": 1755335973699,
+    "_id": "e8be897c-f189-4d0f-9ca2-aa3fe0fa3a15",
+    "_rev": 1755336119317,
+    "id": 11
+  }
+]
