@@ -17,7 +17,7 @@
       "windowPosition": {},
       "compactWidth": 850,
       "config.autosave": true,
-      "schemeSwitcher.enabled": "dark",
+      "schemeSwitcher.enabled": "system",
       "schemeSwitcher.nightStart": "18:00",
       "schemeSwitcher.nightEnd": "06:00",
       "popup.enabledFirst": true,
@@ -25,10 +25,10 @@
       "popup.autoResort": false,
       "popup.borders": false,
       "popup.findSort": "w",
-      "manage.onlyEnabled": true,
+      "manage.onlyEnabled": false,
       "manage.onlyLocal": false,
       "manage.onlyUsercss": false,
-      "manage.onlyEnabled.invert": true,
+      "manage.onlyEnabled.invert": false,
       "manage.onlyLocal.invert": false,
       "manage.onlyUsercss.invert": false,
       "manage.actions.expanded": false,
@@ -102,35 +102,13 @@
       "popupWidth": 246,
       "popupWidthMax": 280,
       "updateInterval": 24,
-      "updateOnlyEnabled": false
+      "updateOnlyEnabled": false,
+      "undefined": null
     },
     "order": {
       "main": [],
       "prio": []
     }
-  },
-  {
-    "enabled": false,
-    "installDate": 1754740784739,
-    "name": "万博サイト破壊",
-    "sections": [
-      {
-        "code": ".style_full__ptzZq,\n.style_next_button__N_pbs {\n    padding: 100px !important;\n}\n\n.style_search_btn__ZuOpx {\nwidth: 500px !important;\nheight: 50px !important;\n}\n.style_ticket_selection__submit__U0a_C {\nwidth: 500px !important;\nheight: 300px !important;\n}\n.style_main__arrows__entrance_date__arrow__sYPyn {\nwidth: 300px !important;\nheight: 50px !important;\n}\n.style_main__arrows__event__arrow__OJk9i {\nwidth: 300px !important;\nheight: 600px !important;\n}\n.style_main__img__Y5bVw,\n.style_search_item_note__vExQQ,\n.style_main__info__RM3Dr,\n.style_main__ope_info__sgPFf,\n.style_main__strong_info__02uX0,\n.style_main__note_sub__NaFm6,\n.style_main__ticket_count__AhREp,\n.style_step_info_second__3JcO2,\n.style_search_input_label_pc__eca1s,\n.style_event_links__jS3Q_,\n.style_title__jFGv9,\n.style_info__CFlEQ,\n.reserve,\n.style_horizon__1JysW,\n.style_image_area__rluEA,\n.style_text_area__Msfzl,\n.style_detail__Y9amN,\n.col3,\n.sp-lh,\n.styles_lead_button__5eAGA:nth-child(1),\n.styles_lead_button__5eAGA:nth-child(2),\n.styles_lead_button__5eAGA:nth-child(3),\n.style_main__usage__GPY6i,\n.styles_other_buy__title__RwMIW,\n.styles_other_buy__list__CvwzW,\n.style_main__page_title__c7e_v,\n.style_main__other_link__WSeX7,\n.style_main__visit_hope_date_title__OWArh,\n.style_selector_item_disabled__iSIA2,\n.style_main__title__uGwso,\n.style_main__access_description__w0ln5,\n.style_main__access__LWLUK,\nheader,\n.style_main__info__EuSQ4,\n.style_main__confirm__58YhI,\n.style_main__title__gPhh9,\n.style_main__head__n643E,\n.style_main__visit_date__bWSvl,\n.style_main__sub_head__wlGqv,\n.style_main__ticket_count_box__d4T6I,\n.style_content___pU7i,\n.style_main__ticket_count__sXoGn,\n.header2,\n.style_main_header__HqBbu,\n.style_footer__iVohO,\n.style_info__DjEiR,\n.style_description__o9igj,\n.style_event_chip_links___Pve2,\n.style_scale__XzXt6,\n.style_footer__0ED9w,\n.style_form_result_head__vWpwF,\n.style_form_search_caption__DbKqM,\n.style_form_select_time__TZmGY,\n.style_hour_unit_wrap__piAg4,\n.style_scale__Wf3te,\n.style_main_img__W_6pm,\n.style_sub_title__bDw9W,\n.style_caption__riP_k,\n.style_title__44y_b,\n.ot-floating-button__front,\n.style_sp_navi__list__ynlBF,\n.style_sp_navi__3gxst,\n.style_info__IMd9g,\n.style_note__IV38f,\n.style_display_controller__SHljn,\n.style_ticket_selection__selection_count__UQ6tz,\n.style_ticket_selection__ticket_count__UAArm,\n.style_ticket_selection__id_input_message__r681a,\n.style_ticket_selection__notice__QKIJm,\n.style_ticket_selection__operation__5_xwc,\n.style_ticket_selection__lead__X6Nmh,\n.style_all_check_block__ATf9c,\n.style_ticket_selection__hidden_ticket_message__SlrMo,\n.style_disabled_get_ticket___nZ_8,\n.style_more_btn_deactive__jsP8I,\n.style_steps__KA_XB,\n.style_slide__F_fNI,\n.styles_title__9jT_J,\n.styles_display_controller__ODR1w,\n.style_search_input_label_sp__IDW6G,\n.styles_info__4kC2A,\n.lead,\n.style_wrapper__LDMLO,\n.h-type1,\n.note-text,\n.ticket-card,\n.style_button__pkjBw,\n.more-btn-wrap,\n.reverse,\n.style_ticket_count__gfKHL,\n.style_main__mt6v9,\n.top-padding,\n#news,\n.btn-wrap-type1,\n.styles_expo_site_link__buhLi,\n.style_main__footer__NVk0k,\n.style_main__ticket_group_summary__oZRfR,\n.style_main__notes__9VjEx,\n.style_main__heading_wrap__qbkH6,\n.style_info__rjheq,\n.style_main__request_guide__BNM2t,\n.style_main__parking__0pxbz,\n.style_main__visit_messages__GP8AM,\n.style_invoice_note__G9n0Q,\n.style_main__EyJHr,\n.style_main__OEY5a,\n.style_step_info_second__pxlY5,\n.style_step_info_first__Y8D4_,\n.style_main__title__x4qR9,\n.style_empty_frame__info__xnrnV,\n.style_terms__title__FVk2S,\n.style_main__contents__second__img__X4jIk,\n.style_main__contents__first__summary__Z6SSp,\n.style_main__contents__first__name__QOGlc,\n.style_main__header__eAqgA,\n.style_main__page_title__X_Tpw,\n.style_main__title__omISt,\n.style_main__arrows__entrance_date__label_wrap__title__gvHvT,\n.style_main__qrcode__zQSmc,\n.style_main__arrows__entrance_date__label__t2CCw,\n.style_main__reserve_num_title__ybaVv,\n.style_form_result_caption__iXsYT,\n.style_button__F9pH2,\n.style_event_arrows_disabled__rj7VL,\n.style_main__arrows__event__label__OJR_U,\n.style_empty_frame__note__llqSp,\n.style_event_links__link__AM5sQ,\n.style_main__kxJbI,\n.style_on_the_day__guide__q9gV9,\n.style_main__calendar__HRSsz, /*カレンダー*/\n.style_search_item_row__moqWC:has(img[src*=\"calendar_none.svg\"]),\ntr:nth-child(5), /*17:00*/\nimg[src*=\"/asset/img/bg_step_arrow_left_gray.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_gray.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_left_red.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_red.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_left_blue.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_blue.png\"],\n.style_time_picker__wrap__UBImr:has(.style_time_picker__disabled___yvRh) {\ndisplay: none !important;\n}\n\ntd:has(img[src*=\"calendar_ng.svg\"]) {\nvisibility: hidden;\n}",
-        "urlPrefixes": [
-          "https://ticket.expo2025.or.jp"
-        ]
-      },
-      {
-        "code": "#kc-social-providers,\n.header1,\n.basic-btn.type2.ico-win.idmng-ta-center.square-arrow_wt,\n.btn-wrap-type1.wide-button-list.idmng-ta-center,\nfooter {\ndisplay: none !important;\n}\n",
-        "urlPrefixes": [
-          "https://auth.accounts.expo2025.or.jp"
-        ]
-      }
-    ],
-    "updateDate": 1756778562252,
-    "_id": "b12c5dad-ff57-4888-a807-ae34ddcdf6c5",
-    "_rev": 1756778779731,
-    "id": 1
   },
   {
     "enabled": false,
@@ -146,93 +124,31 @@
     ],
     "updateDate": 1755334814362,
     "_id": "9cbbe2f3-474b-47af-b29d-5a9082d6d956",
-    "_rev": 1755705366412,
-    "id": 5
+    "_rev": 1757151608286,
+    "id": 1
   },
   {
     "enabled": false,
-    "installDate": 1755330738460,
-    "name": "有志改造-nullのみ",
+    "installDate": 1754740784739,
+    "name": "万博サイト破壊",
     "sections": [
       {
-        "code": "tr:nth-child(43),\ntr:nth-child(44){\ndisplay: block !important;\n}",
+        "code": ".style_full__ptzZq,\n.style_next_button__N_pbs {\n    padding: 100px !important;\n}\n\n.style_search_btn__ZuOpx {\nwidth: 500px !important;\nheight: 50px !important;\n}\n.style_main__arrows__entrance_date__arrow__sYPyn {\nwidth: 300px !important;\nheight: 50px !important;\n}\n.style_main__arrows__event__arrow__OJk9i {\nwidth: 300px !important;\nheight: 300px !important;\n}\n.style_ticket_selection__band__U5V9Q:nth-child(3),\n.style_main__img__Y5bVw,\n.style_book_now_other__PZOW8,\n.style_book_now__wrap__guide__kU_5V,\n.style_book_now__guide__GzHnu,\n.style_book_now__wrap__time__UClVd,\n.style_search_item_note__vExQQ,\n.style_main__info__RM3Dr,\n.style_main__ope_info__sgPFf,\n.style_main__strong_info__02uX0,\n.style_main__note_sub__NaFm6,\n.style_main__ticket_count__AhREp,\n.style_step_info_second__3JcO2,\n.style_search_input_label_pc__eca1s,\n.style_event_links__jS3Q_,\n.style_title__jFGv9,\n.style_info__CFlEQ,\n.reserve,\n.style_horizon__1JysW,\n.sp-lh,\n.styles_lead_button__5eAGA:nth-child(1),\n.styles_lead_button__5eAGA:nth-child(2),\n.styles_lead_button__5eAGA:nth-child(3),\n.style_main__usage__GPY6i,\n.styles_other_buy__title__RwMIW,\n.styles_other_buy__list__CvwzW,\n.style_main__page_title__c7e_v,\n.style_main__other_link__WSeX7,\n.style_main__visit_hope_date_title__OWArh,\n.style_selector_item_disabled__iSIA2,\n.style_main__title__uGwso,\n.style_main__access_description__w0ln5,\n.style_main__access__LWLUK,\nheader,\n.style_main__info__EuSQ4,\n.style_main__confirm__58YhI,\n.style_main__title__gPhh9,\n.style_main__head__n643E,\n.style_main__visit_date__bWSvl,\n.style_main__sub_head__wlGqv,\n.style_main__ticket_count_box__d4T6I,\n.style_content___pU7i,\n.style_main__ticket_count__sXoGn,\n.header2,\n.style_main_header__HqBbu,\n.style_footer__iVohO,\n.style_info__DjEiR,\n.style_description__o9igj,\n.style_event_chip_links___Pve2,\n.style_scale__XzXt6,\n.style_footer__0ED9w,\n.style_form_result_head__vWpwF,\n.style_form_search_caption__DbKqM,\n.style_form_select_time__TZmGY,\n.style_hour_unit_wrap__piAg4,\n.style_scale__Wf3te,\n.style_main_img__W_6pm,\n.style_sub_title__bDw9W,\n.style_caption__riP_k,\n.style_title__44y_b,\n.ot-floating-button__front,\n.style_sp_navi__list__ynlBF,\n.style_sp_navi__3gxst,\n.style_info__IMd9g,\n.style_note__IV38f,\n.style_display_controller__SHljn,\n.style_ticket_selection__selection_count__UQ6tz,\n.style_ticket_selection__ticket_count__UAArm,\n.style_ticket_selection__notice__QKIJm,\n.style_ticket_selection__operation__5_xwc,\n.style_ticket_selection__lead__X6Nmh,\n.style_ticket_selection__hidden_ticket_message__SlrMo,\n.style_disabled_get_ticket___nZ_8,\n.style_more_btn_deactive__jsP8I,\n.style_steps__KA_XB,\n.style_slide__F_fNI,\n.styles_title__9jT_J,\n.styles_display_controller__ODR1w,\n.style_search_input_label_sp__IDW6G,\n.styles_info__4kC2A,\n.lead,\n.style_wrapper__LDMLO,\n.h-type1,\n.note-text,\n.ticket-card,\n.more-btn-wrap,\n.reverse,\n.style_ticket_count__gfKHL,\n.style_main__mt6v9,\n.top-padding,\n#news,\n.btn-wrap-type1,\n.styles_expo_site_link__buhLi,\n.style_main__footer__NVk0k,\n.style_main__ticket_group_summary__oZRfR,\n.style_main__notes__9VjEx,\n.style_main__heading_wrap__qbkH6,\n.style_info__rjheq,\n.style_main__request_guide__BNM2t,\n.style_main__parking__0pxbz,\n.style_hidden_ticket_label__CKjWh,\n.style_display_controller__6A_oc,\n.style_main__visit_messages__GP8AM,\n.style_invoice_note__G9n0Q,\n.style_main__EyJHr,\n.style_main__OEY5a,\n.style_step_info_second__pxlY5,\n.style_step_info_first__Y8D4_,\n.style_main__title__x4qR9,\n.style_empty_frame__info__xnrnV,\n.style_terms__title__FVk2S,\n.style_main__contents__second__img__X4jIk,\n.style_main__contents__first__summary__Z6SSp,\n.style_main__contents__first__name__QOGlc,\n.style_main__header__eAqgA,\n.style_main__page_title__X_Tpw,\n.style_main__title__omISt,\n.style_main__arrows__entrance_date__label_wrap__title__gvHvT,\n.style_main__arrows__entrance_date__label__t2CCw,\n.style_main__reserve_num_title__ybaVv,\n.style_form_result_caption__iXsYT,\n.style_button__F9pH2,\n.style_event_arrows_disabled__rj7VL,\n.style_main__arrows__event__label__OJR_U,\n.style_empty_frame__note__llqSp,\n.style_event_links__link__AM5sQ,\n.style_main__kxJbI,\n.style_on_the_day__guide__q9gV9,\n.style_search_item_row__moqWC:has(img[src*=\"calendar_none.svg\"]),\nimg[src*=\"/asset/img/bg_step_arrow_left_gray.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_gray.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_left_red.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_red.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_left_blue.png\"],\nimg[src*=\"/asset/img/bg_step_arrow_right_blue.png\"],\n.style_time_picker__wrap__UBImr:has(.style_time_picker__disabled___yvRh) {\ndisplay: none !important;\n}\n\ntd:has(img[src*=\"calendar_ng.svg\"]) {\nvisibility: hidden;\n}\n",
         "urlPrefixes": [
-          "https://expo.ebii.net/"
+          "https://ticket.expo2025.or.jp"
+        ]
+      },
+      {
+        "code": "#kc-social-providers,\n.header1,\n.basic-btn.type2.ico-win.idmng-ta-center.square-arrow_wt,\n.btn-wrap-type1.wide-button-list.idmng-ta-center,\nfooter {\ndisplay: none !important;\n}\n",
+        "urlPrefixes": [
+          "https://auth.accounts.expo2025.or.jp"
         ]
       }
     ],
-    "updateDate": 1755475513165,
-    "_id": "63494a14-a5b9-49fd-aedc-d5854d46b18a",
-    "_rev": 1756435157156,
-    "id": 6
-  },
-  {
-    "enabled": false,
-    "installDate": 1755334929289,
-    "name": "有志改造-ヘルスケアのみ",
-    "sections": [
-      {
-        "code": "tr:nth-child(14),\ntr:nth-child(15),\ntr:nth-child(16),\ntr:nth-child(17){\ndisplay: block !important;\n}",
-        "urlPrefixes": [
-          "https://expo.ebii.net/"
-        ]
-      }
-    ],
-    "updateDate": 1755475554095,
-    "_id": "411f733d-1a41-4304-b612-3646e84a142f",
-    "_rev": 1756435157156,
-    "id": 8
-  },
-  {
-    "enabled": false,
-    "installDate": 1755335024733,
-    "name": "有志改造-厳選",
-    "sections": [
-      {
-        "code": "tr:nth-child(14),\ntr:nth-child(15),\ntr:nth-child(16),\ntr:nth-child(17),\ntr:nth-child(43),\ntr:nth-child(44){\ndisplay: block !important;\n}",
-        "urlPrefixes": [
-          "https://expo.ebii.net/"
-        ]
-      }
-    ],
-    "updateDate": 1755475634179,
-    "_id": "fd58e233-b726-46d3-9be3-1f6059e90d2a",
-    "_rev": 1756435157156,
-    "id": 9
-  },
-  {
-    "enabled": false,
-    "installDate": 1755335385521,
-    "name": "有志改造-判定大きめ",
-    "sections": [
-      {
-        "code": "tr:nth-child(4),\ntr:nth-child(9),\ntr:nth-child(11),\ntr:nth-child(14),\ntr:nth-child(15),\ntr:nth-child(16),\ntr:nth-child(17),\ntr:nth-child(18),\ntr:nth-child(22),\ntr:nth-child(24),\ntr:nth-child(32),\ntr:nth-child(34),\ntr:nth-child(37),\ntr:nth-child(38),\ntr:nth-child(43),\ntr:nth-child(44),\ntr:nth-child(45),\ntr:nth-child(46),\ntr:nth-child(48),\ntr:nth-child(49) {\n    display: block !important;\n}",
-        "urlPrefixes": [
-          "https://expo.ebii.net/"
-        ]
-      }
-    ],
-    "updateDate": 1755476103241,
-    "_id": "914b9d9e-4f94-42c4-a633-67859af45d83",
-    "_rev": 1756435157156,
-    "id": 10
-  },
-  {
-    "enabled": false,
-    "installDate": 1755335831671,
-    "name": "有志改造-もっかい行きたいパビリオン",
-    "sections": [
-      {
-        "code": "tr:nth-child(48){\ndisplay: block !important;\n}",
-        "urlPrefixes": [
-          "https://expo.ebii.net/"
-        ]
-      }
-    ],
-    "updateDate": 1755475585580,
-    "_id": "e8be897c-f189-4d0f-9ca2-aa3fe0fa3a15",
-    "_rev": 1756435157156,
-    "id": 11
+    "updateDate": 1757151807229,
+    "_id": "b12c5dad-ff57-4888-a807-ae34ddcdf6c5",
+    "_rev": 1757151807229,
+    "id": 7
   },
   {
     "enabled": false,
@@ -248,7 +164,7 @@
     ],
     "updateDate": 1756691021610,
     "_id": "6ebb11d0-a195-44df-aee5-31d287132b63",
-    "_rev": 1756697838882,
-    "id": 16
+    "_rev": 1757151608286,
+    "id": 12
   }
 ]
